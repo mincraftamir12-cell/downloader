@@ -1,0 +1,15 @@
+action.php
+https://defendonlineprivacy.com
+https://fonts.googleapis.com
+https://fonts.googleapis.com/css2?family=Poppins:wght@100;300;400;600;800&display=swap
+https://fonts.gstatic.com
+https://play.google.com/store/apps/details?id=com.google.android.apps.kids.familylink&hl=en_US&gl=US
+https://support.apple.com/guide/deployment-education/take-advantage-of-content-filtering-edu85ae8dd53/web
+https://www.defendonlineprivacy.com/action/
+https://www.defendonlineprivacy.com/assets/site.webmanifest
+https://www.defendonlineprivacy.com/learn/
+https://www.defendonlineprivacy.com/map/map-style.css
+https://www.defendonlineprivacy.com/style.css
+https://www.defendonlineprivacy.com/tools/
+https://www.freespeechcoalition.com/
+https://www.googletagmanager.com/ns.html?id=GTM-K6FQG4X
